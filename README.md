@@ -2,7 +2,7 @@
 
 • About the Sales Data:
 
-The data covers sales information starting from January 1, 2013. It includes important details like when sales occurred, who made the sales (identified by their names and special IDs), what products were sold, the quantity (although it's in a percentage format, which is a bit unusual), the price for each item, the total sales amount, and where these sales happened in different cities.
+The data covers sales information starting from January 1, 2023. It includes important details like when sales occurred, who made the sales (identified by their names and special IDs), what products were sold, the quantity (although it's in a percentage format, which is a bit unusual), the price for each item, the total sales amount, and where these sales happened in different cities.
 
 • Goal with this Data:
 
